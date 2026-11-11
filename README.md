@@ -15,13 +15,20 @@ Built for the **Data Alcott Systems Free Web Development Internship** (Task ID: 
 
 ## Screenshots
 
-| Page | Preview |
-|------|---------|
-| Dashboard | ![Dashboard](screenshots/dashboard.jpeg) |
-| Policy List | ![Policies](screenshots/policies.jpeg) |
-| Claims | ![Claims](screenshots/claims.jpeg) |
-| Customer Management | ![Customers](screenshots/customers.jpeg) |
-| Reports | ![Reports](screenshots/reports.jpeg) |
+### Dashboard
+![Dashboard](dashboard.jpeg)
+
+### Policy List
+![Policy List](policies.jpeg)
+
+### Claims
+![Claims](claims.jpeg)
+
+### Customer Management
+![Customer Management](customers.jpeg)
+
+### Reports
+![Reports](reports.jpeg)
 
 ## Features
 
